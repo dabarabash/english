@@ -1,0 +1,39 @@
+85.1
+1 -
+2 Nobody
+3 Nowhere
+4 None 
+5 None
+6 Nobody
+7 nothing
+
+85.2
+1 -
+2 any
+3 no
+4 any
+5 None
+6 none
+7 No
+8 any
+9 any
+10 none
+
+85.3
+1 -
+2 nobody
+3 Nowhere
+4 anything
+5 Nothing
+6 Nothing
+7 anywhere
+8 Nobody
+
+85.4
+1 -
+2 nobody
+3 anyone
+4 Anybody
+5 Nothing
+6 Anything
+7 anything
